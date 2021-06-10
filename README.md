@@ -23,5 +23,8 @@
      tokenURIs[tokenId] = Strings.strConcat(baseTokenURI(), ipfsHash);
    ```
 
+<img src="https://github.com/swkim109/Simple-NFT/blob/main/ipfs.PNG"/>
+
+
 메타정보(JSON 형식)의 예시:  
 [NFT 메타정보](https://gateway.ipfs.io/ipfs/QmeR79bzjyTLnyojXvCueqL8rKvawgcZHe65CDkuDid7Yw)
